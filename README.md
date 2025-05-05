@@ -1,6 +1,7 @@
-# Generative AI Assignment (22IS671)
+# Generative AI AAT component
 
-This repository contains a Jupyter Notebook submitted as part of the university course **Introduction to Generative AI**.
+This repository contains a Jupyter Notebook / Google collab submitted as part of the AAT component of subject 
+**Introduction to Generative AI**.
 
 ## 📂 Files
 

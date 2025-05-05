@@ -1,7 +1,9 @@
 # Generative AI AAT component
 
-This repository contains a Jupyter Notebook / Google collab submitted as part of the AAT component of subject 
+This repository contains a Jupyter Notebook / Google colab submitted as part of the AAT component of subject 
 **Introduction to Generative AI**.
+
+CLick on the button below to run this in Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AtharvaKumar/GenAI/blob/main/GenAi_AAT.ipynb)
 

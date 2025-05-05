@@ -3,6 +3,9 @@
 This repository contains a Jupyter Notebook / Google collab submitted as part of the AAT component of subject 
 **Introduction to Generative AI**.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AtharvaKumar/GenAI/blob/main/GenAi_AAT.ipynb)
+
+
 ## 📂 Files
 
 - `GenAi_AAT.ipynb`: Original notebook with all code and explanations.
